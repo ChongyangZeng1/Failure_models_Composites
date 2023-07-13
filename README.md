@@ -1,4 +1,4 @@
-# Failure_models_Composites
+# Failure_criteria ''Lehrstuhl für Fahrzeugleichtbau''
 
 ![FLB_Uni siegen](Failure_criteria_for_composites.PNG)<br>
 
