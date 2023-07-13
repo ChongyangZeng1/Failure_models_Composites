@@ -1,7 +1,6 @@
 # Failure_models_Composites
 
-![FLB_Uni siegen](FLB_pLot_example_1.PNG)<br>
-![FLB_Uni siegen](FLB_pLot_example_2.PNG)
+![FLB_Uni siegen](Failure_criteria_for_composites.PNG)<br>
 
 *Chongyang Zeng, M.Sc.*<br>
 *Team Material Mechanics*<br>
